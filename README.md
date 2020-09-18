@@ -5,6 +5,6 @@ Este proyecto contiene el curso de introducción a GIT del Aula de Software Libr
 
 Desarrollado por Sergio Gómez.
 
-Actualizado
+Actualizado 2
 
 [![DOI](https://zenodo.org/badge/296589526.svg)](https://zenodo.org/badge/latestdoi/296589526)
